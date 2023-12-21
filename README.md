@@ -17,4 +17,4 @@ This repository features a curated list of artificial intelligence (AI) and desi
 
 ## *Imagen de referencia* | *Reference image*
 
-<img src="AI's_Image.jpg" alt="AI's" width="400"/>
+<img src="AI's_Image.jpg" alt="AI's" width="400" style="display: block; margin: 0 auto;"/>
