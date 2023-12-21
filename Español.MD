@@ -1,8 +1,6 @@
 ## Lista de Herramientas en Español
-<details>
-<summary><h3>Descripción Español</h3></summary>
-    | **Nº** | **Herramienta**         | **Descripción**                       | **Área de Enfoque** | **Enlace**                                                | **Gratuita** | **Plan Pro/Precio** | **Ejemplos de Uso**                                    |
-|--------|-------------------------|---------------------------------------|---------------------|-----------------------------------------------------------|--------------|----------------------|--------------------------------------------------------|
+### Herramientas de diseño
+| **Nº** | **Herramienta**         | **Descripción**                       | **Área de Enfoque** | **Enlace** | **Gratuita** | **Plan Pro/Precio** | **Ejemplos de Uso** |--------|-------------------------|---------------------------------------|---------------------|-----------------------------------------------------------|--------------|----------------------|--------------------------------------------------------|
 | 1      | StockIMG                | Generador de imágenes de stock como logos, ilustraciones, posters, etc.                           | Diseño          | [StockIMG](https://stockimg.ai)                           | Sí           | $19                  | Crear logotipos, ilustraciones y pósters.               |
 | 2      | Leonardo AI             | Creador de recursos visuales de calidad con velocidad y coherencia.                               | Diseño          | [Leonardo AI](https://leonardo.ai/)                      | Sí           | $10                  | Producción rápida de imágenes con calidad.              |
 | 3      | HotPot                  | Ayuda a crear gráficos, imágenes y textos mediante herramientas de IA y plantillas fáciles de editar. | Diseño        | [HotPot](https://hotpot.ai/)                              | Sí           | -                    | Generar gráficos y contenido visual automatizado.      |
@@ -14,4 +12,3 @@
 | 9      | BlueWillow               | Generador de arte digital.                                                                         | Diseño          | [BlueWillow](https://www.bluewillow.ai)                | Sí           | $10                  | Crear arte digital y composiciones únicas.             |
 | 10     | Fontjoy                 | Herramienta para combinar fuentes y encontrar combinaciones estéticas.                             | Diseño          | [Fontjoy](https://fontjoy.com)                          | Sí           | -                    | Seleccionar combinaciones de fuentes atractivas.        |
 | 11     | Design AI               | Generador de logos, diseños, mock ups, posters, etc.                                               | Diseño          | [Design AI](https://designs.ai/)                        | Sí           | -                    | Diseñar una variedad de elementos visuales.             |
-</details>
