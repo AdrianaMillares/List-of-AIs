@@ -10,7 +10,7 @@
 
 This repository features a curated list of artificial intelligence (AI) and design tools, aiming to provide accessible resources for individuals with varying levels of technical knowledge. The list encompasses useful tools for graphic design, marketing, AI development, and more.
 
-![image](https://github.com/AdrianaMillares/List-of-AIs/blob/main/AI's_Image.jpg)
+![image](AI's_Image.jpg)
 *Imagen de referencia* | *Reference image*
 
 </details>
