@@ -15,6 +15,7 @@ This repository features a curated list of artificial intelligence (AI) and desi
 - [Lista en español](https://github.com/AdrianaMillares/List-of-AIs/blob/main/Espa%C3%B1ol.MD)
 - [English list](https://github.com/AdrianaMillares/List-of-AIs/blob/main/English.MD)
 
-## *Imagen de referencia* | *Reference image*
-
-<img src="AI's_Image.jpg" alt="AI's" width="400" style="display: block; margin: 0 auto;"/>
+<h2 align="center">Imagen de referencia | Reference image</h2>
+<p align="center">
+  <img src="AI's_Image.jpg" alt="AI's" width="400"/>
+</p>
