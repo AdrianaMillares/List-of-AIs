@@ -23,8 +23,6 @@
 | 11     | Design AI            | Generador de logos, diseños, mock ups, posters, etc.               | Diseño          | [Design AI](https://designs.ai/)                        | Sí           | -                    | Diseñar una variedad de elementos visuales.             |
 
 ### Herramientas de Marketing
-## Lista de Herramientas en Español
-### Herramientas de Marketing
 
 | **Nº** | **Herramienta**      | **Descripción**                                                   | **Área de Enfoque** | **Enlace**                                                | **Gratuita** | **Plan Pro/Precio** | **Ejemplos de Uso**                                    |
 |--------|----------------------|-------------------------------------------------------------------|---------------------|-----------------------------------------------------------|--------------|----------------------|--------------------------------------------------------|
