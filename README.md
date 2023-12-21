@@ -12,9 +12,10 @@ This repository features a curated list of artificial intelligence (AI) and desi
 
 </details>
 
+- [Lista en español](https://github.com/AdrianaMillares/List-of-AIs/blob/main/Espa%C3%B1ol.MD)
+- [English list](https://github.com/AdrianaMillares/List-of-AIs/blob/main/English.MD)
+
 ![image](AI's_Image.jpg)
 
 *Imagen de referencia* | *Reference image*
 
-- [Lista en español](https://github.com/AdrianaMillares/List-of-AIs/blob/main/Espa%C3%B1ol.MD)
-- [English list](https://github.com/AdrianaMillares/List-of-AIs/blob/main/English.MD)
