@@ -2,7 +2,6 @@
 
 <details>
 <summary>Descripción Español</summary>
-
     Este repositorio contiene una lista curada de herramientas de inteligencia artificial (IA) y diseño, con el objetivo de proporcionar recursos accesibles para personas con diversos niveles de conocimiento técnico. La lista incluye herramientas útiles para el diseño gráfico, marketing, desarrollo de IA, y más.
 </details>
 
