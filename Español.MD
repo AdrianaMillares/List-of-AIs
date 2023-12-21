@@ -1,5 +1,5 @@
 ## Lista de Herramientas en Español
-- (Herramientas de diseño)[- (Herramientas de diseño)]
+- [Herramientas de diseño](https://github.com/AdrianaMillares/List-of-AIs/blob/main/Español.MD#herramientas-de-diseño)
 - (Herramientas de marketing)
 - (Herramientas de productividad)
 - (Herramientas de escritura)
