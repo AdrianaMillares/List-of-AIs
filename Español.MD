@@ -1,4 +1,11 @@
 ## Lista de Herramientas en Español
+- (Herramientas de diseño)
+- (Herramientas de marketing)
+- (Herramientas de productividad)
+- (Herramientas de escritura)
+- (Herramientas de video)
+- (Herramientas de automatización inteligente)
+
 ### Herramientas de diseño
 ## Lista de Herramientas en Español
 ### Herramientas de diseño
