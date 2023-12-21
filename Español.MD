@@ -1,4 +1,4 @@
-
+## Lista de Herramientas en Español
 | **Nº** | **Herramienta**         | **Descripción**                       | **Área de Enfoque** | **Enlace**                                                | **Gratuita** | **Plan Pro/Precio** | **Ejemplos de Uso**                                    |
 |--------|-------------------------|---------------------------------------|---------------------|-----------------------------------------------------------|--------------|----------------------|--------------------------------------------------------|
 | 1      | StockIMG                | Generador de imágenes de stock como logos, ilustraciones, posters, etc.                           | Diseño          | [StockIMG](https://stockimg.ai)                           | Sí           | $19                  | Crear logotipos, ilustraciones y pósters.               |
