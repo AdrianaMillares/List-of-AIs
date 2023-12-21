@@ -8,9 +8,8 @@
 <details>
 <summary>English description</summary>
 
-```
 This repository features a curated list of artificial intelligence (AI) and design tools, aiming to provide accessible resources for individuals with varying levels of technical knowledge. The list encompasses useful tools for graphic design, marketing, AI development, and more.
-```
+
 </details>
 
 - [Lista en español](https://github.com/AdrianaMillares/List-of-AIs/blob/main/Espa%C3%B1ol.MD)
