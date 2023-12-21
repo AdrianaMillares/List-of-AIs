@@ -1,5 +1,8 @@
 ## Lista de Herramientas en Español
 ### Herramientas de diseño
+## Lista de Herramientas en Español
+### Herramientas de diseño
+
 | **Nº** | **Herramienta**      | **Descripción**                                                   | **Área de Enfoque** | **Enlace**                                                | **Gratuita** | **Plan Pro/Precio** | **Ejemplos de Uso**                                    |
 |--------|----------------------|-------------------------------------------------------------------|---------------------|-----------------------------------------------------------|--------------|----------------------|--------------------------------------------------------|
 | 1      | StockIMG             | Generador de imágenes de stock como logos, ilustraciones, posters, etc. | Diseño          | [StockIMG](https://stockimg.ai)                           | Sí           | $19                  | Crear logotipos, ilustraciones y pósters.               |
@@ -13,4 +16,3 @@
 | 9      | BlueWillow            | Generador de arte digital.                                         | Diseño          | [BlueWillow](https://www.bluewillow.ai)                | Sí           | $10                  | Crear arte digital y composiciones únicas.             |
 | 10     | Fontjoy              | Herramienta para combinar fuentes y encontrar combinaciones estéticas. | Diseño          | [Fontjoy](https://fontjoy.com)                          | Sí           | -                    | Seleccionar combinaciones de fuentes atractivas.        |
 | 11     | Design AI            | Generador de logos, diseños, mock ups, posters, etc.               | Diseño          | [Design AI](https://designs.ai/)                        | Sí           | -                    | Diseñar una variedad de elementos visuales.             |
-
